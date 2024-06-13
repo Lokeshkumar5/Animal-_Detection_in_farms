@@ -1,1 +1,1 @@
-# Animal-_Detection_in_farms
+# Animal_Detection_in_farms
